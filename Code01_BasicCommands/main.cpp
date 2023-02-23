@@ -16,7 +16,7 @@ int main()
 
 
     // Math function examples
-    cout << "Maximum between " << num1 << " and " << num2 << " is: " << fmax(num1, num2) << endl << endl;  // fmax usa valores tipo flotante
+    cout << "Maximum between " << num1 << " and " << num2 << " is: " << fmax(num1, num2) << endl << endl;
     cout << "Minimum between " << num1 << " and " << num2 << " is: " << fmin(num1, num2) << endl << endl;
     cout << "Base 10 logarithm of "<< num1 << " is: " << log10(num1) << endl << endl;
     cout << "Cosine of " << num1 << " in rad is: " << cos(num1) << endl << endl;
