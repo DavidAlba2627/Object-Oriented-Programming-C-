@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677175059 source:c:\users\pc\documents\c++ code blocks\code01_basiccommands\main.cpp
+	<iostream>
+	<stdio.h>
+
