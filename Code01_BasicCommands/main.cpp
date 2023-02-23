@@ -10,7 +10,7 @@ int main()
 
     // Print instructions and receive numbers
     cout << "Program to multiply " << g << " numbers " << endl; // cout is the equivalent of printf
-    cout << "Introduce 2 numbers" << endl;
+    cout << "Enter 2 numbers" << endl;
     cin >> num1 >> num2; // cin is the equivalent of scanf
     cout << endl << "The multiplication of "<< num1 << "*" << num2 << " is: " << num1*num2 << endl << endl;
 
