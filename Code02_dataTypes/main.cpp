@@ -1,6 +1,6 @@
 #include <iostream>
 #include <climits> // Include INT_MAX, SHRT_MAX, LONG_MAX, INT_MIN, SHRT_MIN, LONG_MIN
-#include <cfloat>  // DBL_MAX, FLT_MAX, DBL_MIN, FLT_MIN
+#include <cfloat>  // Include DBL_MAX, FLT_MAX, DBL_MIN, FLT_MIN
 
 using namespace std;
 
