@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677187919 source:c:\users\pc\documents\github\object-oriented-programming-cpp\code02_datatypes\main.cpp
+	<iostream>
+	<cfloat>
+

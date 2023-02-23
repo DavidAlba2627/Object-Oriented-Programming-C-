@@ -14,13 +14,13 @@ int main()
     cin >> num1 >> num2; // cin is the equivalent of scanf
     cout << endl << "The multiplication of "<< num1 << "*" << num2 << " is: " << num1*num2 << endl << endl;
 
-
     // Math function examples
     cout << "Maximum between " << num1 << " and " << num2 << " is: " << fmax(num1, num2) << endl << endl;
     cout << "Minimum between " << num1 << " and " << num2 << " is: " << fmin(num1, num2) << endl << endl;
     cout << "Base 10 logarithm of "<< num1 << " is: " << log10(num1) << endl << endl;
     cout << "Cosine of " << num1 << " in rad is: " << cos(num1) << endl << endl;
     cout << "Hyperbolic cosine of " << num1 << " is: " << cosh(num1) << endl << endl;
-    cout << "Exponential e^"<< num1 << " is: " << exp(num1) << endl << endl;
+    cout << "Exponential e^"<< num1 << " is: " << exp(num1) << endl;
+
     return 0;
 }
