@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Code07_FilesAndObjects" />
+		<Option title="Code06_ReadingWritingFiles" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Code07_FilesAndObjects" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Code06_ReadingWritingFiles" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Code07_FilesAndObjects" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Code06_ReadingWritingFiles" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,16 +32,6 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Circumference.cpp" />
-		<Unit filename="Circumference.h" />
-		<Unit filename="Coordinate.cpp" />
-		<Unit filename="Coordinate.h" />
-		<Unit filename="Figure.cpp" />
-		<Unit filename="Figure.h" />
-		<Unit filename="Rectangle.cpp" />
-		<Unit filename="Rectangle.h" />
-		<Unit filename="Triangle.cpp" />
-		<Unit filename="Triangle.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
