@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677197318 source:c:\users\pc\documents\github\object-oriented-programming-cpp\code04_arraysvector\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+
