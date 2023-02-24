@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1677260568 source:c:\users\pc\documents\github\object-oriented-programming-cpp\code05_classes\student.cpp
+	"Student.h"
+
+1677260551 c:\users\pc\documents\github\object-oriented-programming-cpp\code05_classes\student.h
+	"Person.h"
+
+1677260506 c:\users\pc\documents\github\object-oriented-programming-cpp\code05_classes\person.h
+	<iostream>
+
+1677260500 source:c:\users\pc\documents\github\object-oriented-programming-cpp\code05_classes\person.cpp
+	"Person.h"
+
+1677259998 source:c:\users\pc\documents\github\object-oriented-programming-cpp\code05_classes\main.cpp
+	<iostream>
+	"Person.h"
+	"Student.h"
+	<vector>
+
