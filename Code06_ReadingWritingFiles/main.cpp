@@ -19,29 +19,20 @@ int main()
     fout << "Writing a number: " << 1234.567 << endl;
     fout.close();
 
-    fout.open("myFirstFile.txt"); // despues de la coma es el modificador del archivo, tambien puede ser  ios_base
-    fout << "Quinta linea!" << endl;
-    fout << "Sexta linea!" << endl;
+    fout.open("myFirstFile.txt",fstream::app); // despues de la coma es el modificador del archivo, tambien puede ser  ios_base
+    fout << "Fourth line" << endl;
     fout.close();
 
-    ifstream fin("figurasPlanas.txt");
-    /*char ch1, ch2;
-    fin >> ch1;
-    fin >> ch2;
-    char buffer[80]; // tinaco de la casa
-    fin >> buffer;
-
-    cout << "Los 2 primeros caracteres son: " << ch1 << " y " << ch2 <<endl;
-    cout << "Los caracteres del buffer son: "<< buffer << endl;*/
+    ifstream fin("figures.txt");
 
     string line;
     int i=0;
-    while (getline(fin,line) )// getline es getline(de donde vas a a leer el string, donde quieres almacenar el resultado)
-        cout << "Linea " << ++i << " : " << line << endl;
+    while (getline(fin,line) )
+        cout << "Line " << ++i << " : " << line << endl;
 
     fin.close();
 
-    fin.open("figurasPlanas.txt");
+    fin.open("figures.txt");
 
     vector <string>tokens;
     vector <string>tokens2;
@@ -57,7 +48,7 @@ int main()
     tokens= split(buffer1,',');
     tokens2= split(buffer2,',');
     tokens3= split(buffer3,',');
-    size_t j; // hace alusion a un tipo de  dato primitivo, version mas general del int
+    size_t j;
     for(j=0; j<tokens.size(); j++)
     {
         cout << tokens.at(j)<< endl;

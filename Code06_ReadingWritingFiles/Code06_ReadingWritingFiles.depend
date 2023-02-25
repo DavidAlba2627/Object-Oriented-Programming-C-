@@ -1,4 +1,8 @@
 # depslib dependency file v1.0
-1584205420 source:c:\users\pc\documents\github\object-oriented-programming-cpp\code06_readingwritingfiles\main.cpp
+1677283307 source:c:\users\pc\documents\github\object-oriented-programming-cpp\code06_readingwritingfiles\main.cpp
 	<iostream>
+	<cstring>
+	<fstream>
+	<sstream>
+	<vector>
 
