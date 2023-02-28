@@ -1,0 +1,515 @@
+id: 1 fitness: 104.572 posicion: 0.955401, -0.329029,  mejor posicion: 0.955401, -0.329029,  velocidad: 0.955401, -0.329029, 
+id: 2 fitness: 1.86944e+08 posicion: -0.779402, 5.28508,  mejor posicion: -0.779402, 5.28508,  velocidad: -0.779402, 5.28508, 
+id: 3 fitness: 2.46089e+08 posicion: 2.31318, 4.90134,  mejor posicion: 2.31318, 4.90134,  velocidad: 2.31318, 4.90134, 
+id: 98 fitness: 1.11156e+09 posicion: 9.80852, 8.18434,  mejor posicion: 9.80852, 8.18434,  velocidad: 9.80852, 8.18434, 
+id: 99 fitness: 4.0802e+09 posicion: 6.46408, -9.72383,  mejor posicion: 6.46408, -9.72383,  velocidad: 6.46408, -9.72383, 
+id: 100 fitness: 1.52913e+07 posicion: 7.40155, -8.57342,  mejor posicion: 7.40155, -8.57342,  velocidad: 7.40155, -8.57342, 
+
+
+id: 1 fitness: 104.572 posicion: 0.955401, -0.329029,  mejor posicion: 0.955401, -0.329029,  velocidad: 0.955401, -0.329029, 
+id: 27 fitness: 541.595 posicion: -0.612678, -1.02304,  mejor posicion: -0.612678, -1.02304,  velocidad: -0.612678, -1.02304, 
+id: 74 fitness: 7253.02 posicion: 4.28944, 1.84209,  mejor posicion: 4.28944, 1.84209,  velocidad: 4.28944, 1.84209, 
+id: 91 fitness: 4.62975e+10 posicion: -1.01146, -9.32867,  mejor posicion: -1.01146, -9.32867,  velocidad: -1.01146, -9.32867, 
+id: 12 fitness: 7.61539e+10 posicion: -2.31254, -9.90669,  mejor posicion: -2.31254, -9.90669,  velocidad: -2.31254, -9.90669, 
+id: 67 fitness: 8.12001e+10 posicion: 2.94819, 9.97775,  mejor posicion: 2.94819, 9.97775,  velocidad: 2.94819, 9.97775, 
+
+La mejor particula es: 1
+***************************
+
+
+id: 27 fitness: 816.099 posicion: -0.754616, -1.30636,  mejor posicion: -0.612678, -1.02304,  velocidad: -0.141939, -0.283321, 
+id: 1 fitness: 11889.2 posicion: 1.65265, -0.569155,  mejor posicion: 0.955401, -0.329029,  velocidad: 0.697252, -0.240125, 
+id: 89 fitness: 22966.6 posicion: -3.29394, -3.1656,  mejor posicion: -3.29394, -3.1656,  velocidad: -0.713851, -1.06063, 
+id: 47 fitness: 2.00043e+12 posicion: -2.82672, -14.8569,  mejor posicion: -4.8689, -9.59275,  velocidad: 2.04219, -5.26411, 
+id: 77 fitness: 3.19953e+12 posicion: 3.72296, -16.8079,  mejor posicion: 3.88413, -9.86757,  velocidad: -0.161172, -6.94028, 
+id: 67 fitness: 4.24055e+12 posicion: 3.79397, 16.3299,  mejor posicion: 2.94819, 9.97775,  velocidad: 0.845783, 6.35211, 
+
+***************************
+
+
+id: 51 fitness: 11.7221 posicion: 0.154477, -0.988973,  mejor posicion: 0.154477, -0.988973,  velocidad: -2.3987, 0.990619, 
+id: 14 fitness: 11.8685 posicion: -0.10539, -0.87475,  mejor posicion: -0.10539, -0.87475,  velocidad: 11.6017, -1.17253, 
+id: 23 fitness: 12.8286 posicion: -0.134292, -0.879852,  mejor posicion: -0.134292, -0.879852,  velocidad: -0.773156, 12.2206, 
+id: 91 fitness: 1.13094e+11 posicion: -0.769787, -10.4461,  mejor posicion: -0.769787, -10.4461,  velocidad: -0.424706, 4.15191, 
+id: 11 fitness: 1.61537e+12 posicion: -0.367578, 14.9733,  mejor posicion: -0.367578, 14.9733,  velocidad: -1.79559, -0.0645863, 
+id: 67 fitness: 2.67112e+12 posicion: 1.8904, 15.5504,  mejor posicion: 1.8904, 15.5504,  velocidad: -1.90357, -0.779431, 
+
+***************************
+
+
+id: 81 fitness: 3.07066 posicion: 0.00972056, -1.00808,  mejor posicion: 0.00972056, -1.00808,  velocidad: -1.48194, -0.445771, 
+id: 37 fitness: 4.97794 posicion: 0.00723886, -0.931933,  mejor posicion: 0.00723886, -0.931933,  velocidad: 4.99323, -0.0272368, 
+id: 39 fitness: 40.8811 posicion: 0.209898, -1.09176,  mejor posicion: 0.209898, -1.09176,  velocidad: -1.82943, -1.23272, 
+id: 71 fitness: 1.40627e+11 posicion: 3.6359, -11.7203,  mejor posicion: 3.98481, 5.24521e-05,  velocidad: -0.348904, -11.7203, 
+id: 96 fitness: 1.69819e+11 posicion: 0.557516, -11.1574,  mejor posicion: -0.204778, -2.26369,  velocidad: 0.762293, -8.89367, 
+id: 45 fitness: 1.14332e+12 posicion: -0.911057, -13.9461,  mejor posicion: -0.536591, -2.632,  velocidad: -0.374465, -11.3141, 
+
+***************************
+
+
+id: 27 fitness: 13.2001 posicion: -0.00465804, -0.859626,  mejor posicion: -0.00465804, -0.859626,  velocidad: 0.40972, 0.192448, 
+id: 66 fitness: 107.525 posicion: 1.2238, -0.211741,  mejor posicion: 1.2238, -0.211741,  velocidad: 0.371514, 0.546613, 
+id: 87 fitness: 267.07 posicion: -0.496293, -1.0915,  mejor posicion: -0.496293, -1.0915,  velocidad: -1.47619, -0.0823211, 
+id: 10 fitness: 6.83335e+09 posicion: -1.19323, 8.01359,  mejor posicion: 5.19248, 3.12674,  velocidad: -6.38571, 4.88685, 
+id: 47 fitness: 8.10699e+09 posicion: 3.111, 7.51381,  mejor posicion: 1.83031, 4.1891,  velocidad: 1.28069, 3.32471, 
+id: 67 fitness: 6.82641e+11 posicion: -0.905332, -13.0723,  mejor posicion: 0.446441, -0.996306,  velocidad: -1.35177, -12.076, 
+
+***************************
+
+
+id: 27 fitness: 47.1978 posicion: 0.294356, -0.719177,  mejor posicion: -0.00465804, -0.859626,  velocidad: 0.299014, 0.140448, 
+id: 22 fitness: 63.5875 posicion: -0.0804639, -0.691318,  mejor posicion: -0.0804639, -0.691318,  velocidad: -0.869861, 0.567984, 
+id: 1 fitness: 66.5493 posicion: -0.379086, -1.19843,  mejor posicion: -0.379086, -1.19843,  velocidad: 0.258588, -0.0579852, 
+id: 67 fitness: 1.71809e+10 posicion: -0.532676, -8.27477,  mejor posicion: -0.532676, -8.27477,  velocidad: 0.372656, 4.79756, 
+id: 3 fitness: 1.95863e+10 posicion: 0.0183524, -8.46706,  mejor posicion: 0.231072, 0.0394926,  velocidad: 0.0916718, -2.53343, 
+id: 11 fitness: 4.08543e+10 posicion: -0.423518, -9.22704,  mejor posicion: -1.46663, -2.93254,  velocidad: 1.04311, -6.2945, 
+
+***************************
+
+
+id: 26 fitness: 5.0864 posicion: 0.0598567, -1.03345,  mejor posicion: 0.0598567, -1.03345,  velocidad: -0.553619, -1.14792, 
+id: 53 fitness: 15.2914 posicion: 0.202166, -0.840996,  mejor posicion: 0.202166, -0.840996,  velocidad: -5.21449, 0.544991, 
+id: 1 fitness: 20.0498 posicion: 0.175361, -1.0296,  mejor posicion: 0.175361, -1.0296,  velocidad: 0.554447, 0.168834, 
+id: 33 fitness: 1.61192e+10 posicion: -9.39487, 2.14081,  mejor posicion: -4.16865, -0.527445,  velocidad: -5.22622, 2.66826, 
+id: 46 fitness: 2.21655e+10 posicion: -0.749317, -8.5256,  mejor posicion: -0.538926, -3.61394,  velocidad: -0.210391, -4.91166, 
+id: 45 fitness: 5.71438e+10 posicion: 0.454853, 9.80081,  mejor posicion: 0.51375, 3.38935,  velocidad: -0.0588972, 6.41146, 
+
+***************************
+
+
+id: 27 fitness: 3.30963 posicion: -0.0347659, -1.01678,  mejor posicion: -0.0347659, -1.01678,  velocidad: -0.160714, -0.317329, 
+id: 70 fitness: 28.4288 posicion: 0.263683, -0.917548,  mejor posicion: 0.263683, -0.917548,  velocidad: -1.3313, -0.368511, 
+id: 55 fitness: 31.9355 posicion: -0.598797, -0.361476,  mejor posicion: -0.598797, -0.361476,  velocidad: -0.0963904, -0.210868, 
+id: 97 fitness: 4.79667e+09 posicion: -0.291377, 7.41659,  mejor posicion: -0.562453, 0.286931,  velocidad: 0.577597, 2.44952, 
+id: 3 fitness: 6.23872e+09 posicion: 0.242974, 7.51839,  mejor posicion: 0.182748, 1.30004,  velocidad: 0.060226, 6.21835, 
+id: 46 fitness: 3.23022e+10 posicion: -0.667235, -8.94061,  mejor posicion: -0.538926, -3.61394,  velocidad: 0.0820818, -0.415015, 
+
+***************************
+
+
+id: 22 fitness: 6.46322 posicion: 0.0114069, -0.911809,  mejor posicion: 0.0114069, -0.911809,  velocidad: 1.05721, -0.288971, 
+id: 6 fitness: 9.08857 posicion: 0.061954, -1.08169,  mejor posicion: 0.061954, -1.08169,  velocidad: -0.510379, 0.249735, 
+id: 23 fitness: 14.5769 posicion: -0.187922, -1.07215,  mejor posicion: -0.187922, -1.07215,  velocidad: 0.340583, -1.75044, 
+id: 45 fitness: 3.32541e+09 posicion: -0.339107, -6.76565,  mejor posicion: 1.01328e-05, 0.93734,  velocidad: -0.339117, -7.70298, 
+id: 96 fitness: 1.70486e+10 posicion: 0.184718, -8.34459,  mejor posicion: 0.263352, -4.15451,  velocidad: -0.0786339, -4.19008, 
+id: 11 fitness: 4.34032e+10 posicion: 0.151764, 9.53648,  mejor posicion: 0.39578, 0.182834,  velocidad: -0.674353, 2.66071, 
+
+***************************
+
+
+id: 1 fitness: 3.82746 posicion: -0.0550731, -1.02929,  mejor posicion: -0.0550731, -1.02929,  velocidad: -0.318622, -0.0380846, 
+id: 99 fitness: 4.11082 posicion: 0.0519438, -0.951523,  mejor posicion: 0.0519438, -0.951523,  velocidad: -0.809042, 0.386883, 
+id: 58 fitness: 6.57649 posicion: 0.0214917, -0.90998,  mejor posicion: 0.0214917, -0.90998,  velocidad: 0.184261, -0.422573, 
+id: 43 fitness: 2.10786e+10 posicion: -11.2194, -2.9186,  mejor posicion: -3.8793, -2.55108,  velocidad: -7.34011, -0.36752, 
+id: 47 fitness: 3.362e+10 posicion: 2.56542, 8.94962,  mejor posicion: 3.45379, 2.39142,  velocidad: -0.63217, 3.35481, 
+id: 95 fitness: 8.52701e+10 posicion: -0.54683, -10.1025,  mejor posicion: -0.183705, -3.81013,  velocidad: -0.363125, -6.29238, 
+
+***************************
+
+
+id: 90 fitness: 3.48191 posicion: -0.0452585, -1.00997,  mejor posicion: -0.0452585, -1.00997,  velocidad: -0.670574, -0.00289855, 
+id: 55 fitness: 3.73491 posicion: -0.0551516, -1.01814,  mejor posicion: -0.0551516, -1.01814,  velocidad: 0.285806, -0.079003, 
+id: 2 fitness: 4.32976 posicion: -0.0338432, -0.955173,  mejor posicion: -0.0338432, -0.955173,  velocidad: -0.0324554, 2.79677, 
+id: 11 fitness: 7.44415e+09 posicion: -0.531333, -7.45909,  mejor posicion: -0.401994, 0.859392,  velocidad: -0.129339, -8.31849, 
+id: 95 fitness: 1.31918e+10 posicion: -0.398819, -8.01842,  mejor posicion: -0.398819, -8.01842,  velocidad: 0.14801, 2.08409, 
+id: 43 fitness: 6.30565e+10 posicion: -11.7855, -1.14355,  mejor posicion: -3.8793, -2.55108,  velocidad: -0.566131, 1.77505, 
+
+***************************
+
+
+id: 66 fitness: 3.17461 posicion: -0.00297777, -0.980517,  mejor posicion: -0.00297777, -0.980517,  velocidad: -0.0605507, 0.0995643, 
+id: 87 fitness: 3.24307 posicion: -0.0311789, -1.00065,  mejor posicion: -0.0311789, -1.00065,  velocidad: 0.0838187, -0.0874771, 
+id: 42 fitness: 4.38068 posicion: -0.00967554, -1.05427,  mejor posicion: -0.00967554, -1.05427,  velocidad: 0.107307, 0.32733, 
+id: 24 fitness: 7.58963e+07 posicion: -4.91787, -0.757857,  mejor posicion: -1.59042, -1.0063,  velocidad: -0.471079, 0.0459204, 
+id: 54 fitness: 1.71043e+08 posicion: -5.76055, -1.35705,  mejor posicion: -2.96755, -1.66969,  velocidad: -0.278873, 0.0587512, 
+id: 97 fitness: 4.88001e+08 posicion: 0.0202456, -5.3792,  mejor posicion: 0.476525, 0.170588,  velocidad: -0.367903, -1.72576, 
+
+***************************
+
+
+id: 27 fitness: 3.12579 posicion: 0.00820283, -0.981877,  mejor posicion: 0.00820283, -0.981877,  velocidad: -0.0381218, -0.0632757, 
+id: 35 fitness: 3.56027 posicion: 0.0444088, -0.970888,  mejor posicion: 0.0444088, -0.970888,  velocidad: -0.0193898, 0.200928, 
+id: 100 fitness: 4.79074 posicion: 0.0501858, -1.03614,  mejor posicion: 0.0501858, -1.03614,  velocidad: 0.340187, -1.03564, 
+id: 71 fitness: 6.0373e+08 posicion: -1.32708, 6.21637,  mejor posicion: -0.901309, -0.693356,  velocidad: 0.232524, 2.37877, 
+id: 46 fitness: 4.01911e+09 posicion: -0.0868605, -6.94971,  mejor posicion: 0.155164, -1.2492,  velocidad: -0.242024, -5.70051, 
+id: 43 fitness: 3.49923e+11 posicion: 15.5708, -0.184817,  mejor posicion: 5.28007, -0.358694,  velocidad: 10.2908, 0.173876, 
+
+***************************
+
+
+id: 51 fitness: 3.01962 posicion: -0.00527791, -1.00685,  mejor posicion: -0.00527791, -1.00685,  velocidad: 0.121711, 0.163185, 
+id: 27 fitness: 3.33276 posicion: -0.0196185, -1.02806,  mejor posicion: 0.00820283, -0.981877,  velocidad: -0.0278213, -0.0461786, 
+id: 49 fitness: 3.43758 posicion: 0.0382943, -0.973503,  mejor posicion: 0.0382943, -0.973503,  velocidad: -1.30591, -0.0744379, 
+id: 54 fitness: 5.25387e+07 posicion: 5.7348, -1.35991,  mejor posicion: 2.25261, -1.38163,  velocidad: 3.4822, 0.0217185, 
+id: 95 fitness: 1.40058e+09 posicion: 0.207899, 6.29111,  mejor posicion: -0.105305, -0.827343,  velocidad: -0.00435495, 1.93758, 
+id: 43 fitness: 2.2452e+09 posicion: 8.59831, -0.413187,  mejor posicion: 8.59831, -0.413187,  velocidad: -6.97251, -0.22837, 
+
+***************************
+
+
+id: 87 fitness: 3.0181 posicion: -0.00879453, -1.00096,  mejor posicion: -0.00879453, -1.00096,  velocidad: -0.0431294, 0.044778, 
+id: 61 fitness: 3.16142 posicion: -0.018512, -1.01829,  mejor posicion: -0.018512, -1.01829,  velocidad: -0.36433, -0.140651, 
+id: 27 fitness: 3.28248 posicion: -0.028275, -1.02187,  mejor posicion: -0.028275, -1.02187,  velocidad: -0.00865651, 0.00618223, 
+id: 71 fitness: 4.54344e+07 posicion: 0.52817, -4.12546,  mejor posicion: -0.409854, 1.23733,  velocidad: 0.938023, -5.36279, 
+id: 41 fitness: 4.66072e+07 posicion: 0.100762, -4.06943,  mejor posicion: 0.198251, -1.57978,  velocidad: -0.362536, -0.876626, 
+id: 95 fitness: 1.073e+08 posicion: 0.0601599, -4.48699,  mejor posicion: 0.0601599, -4.48699,  velocidad: -0.147739, -10.7781, 
+
+***************************
+
+
+id: 51 fitness: 3.12759 posicion: 0.0235635, -0.991074,  mejor posicion: 0.0235635, -0.991074,  velocidad: -0.0599833, -0.103319, 
+id: 27 fitness: 3.20009 posicion: -0.0261558, -1.01634,  mejor posicion: -0.0261558, -1.01634,  velocidad: 0.00211919, 0.00553428, 
+id: 99 fitness: 3.37068 posicion: -0.0396007, -1.00597,  mejor posicion: -0.0396007, -1.00597,  velocidad: -0.406206, 0.165723, 
+id: 52 fitness: 1.3496e+07 posicion: -0.143142, -3.50137,  mejor posicion: -0.648152, -0.887625,  velocidad: 0.130476, -0.613334, 
+id: 43 fitness: 1.85179e+10 posicion: -10.2391, -1.46312,  mejor posicion: -2.39404, -1.02965,  velocidad: -7.84507, -0.433473, 
+id: 95 fitness: 3.13165e+10 posicion: -0.0977203, -8.9606,  mejor posicion: 0.0601599, -4.48699,  velocidad: -0.15788, -4.47361, 
+
+***************************
+
+
+id: 42 fitness: 3.04466 posicion: -0.0086239, -0.993992,  mejor posicion: -0.0086239, -0.993992,  velocidad: 0.0178235, 0.143853, 
+id: 27 fitness: 3.04939 posicion: 0.00896656, -0.989187,  mejor posicion: 0.00896656, -0.989187,  velocidad: 0.0351223, 0.0271519, 
+id: 35 fitness: 3.05352 posicion: 0.00229369, -1.01032,  mejor posicion: 0.00229369, -1.01032,  velocidad: 0.0167057, -0.0662921, 
+id: 96 fitness: 5.8697e+06 posicion: 0.0806059, -3.20232,  mejor posicion: 0.227987, -0.201164,  velocidad: -0.147381, -3.00115, 
+id: 43 fitness: 2.51174e+09 posicion: -8.10749, -1.63277,  mejor posicion: -8.10749, -1.63277,  velocidad: 2.13161, -0.16965, 
+id: 95 fitness: 3.41959e+09 posicion: -0.0143323, -6.82078,  mejor posicion: -0.0143323, -6.82078,  velocidad: 0.083388, 2.13982, 
+
+***************************
+
+
+id: 87 fitness: 3.31899 posicion: -0.0177767, -0.97965,  mejor posicion: -0.0177767, -0.97965,  velocidad: 0.0290775, -0.0122104, 
+id: 27 fitness: 3.32765 posicion: 0.0165946, -0.970989,  mejor posicion: 0.00896656, -0.989187,  velocidad: 0.00762801, 0.0181981, 
+id: 16 fitness: 3.34441 posicion: -0.037758, -1.00342,  mejor posicion: -0.037758, -1.00342,  velocidad: -0.175602, -0.00687525, 
+id: 95 fitness: 4.29447e+06 posicion: 0.0500636, -3.08863,  mejor posicion: 0.0500636, -3.08863,  velocidad: 0.064396, 3.73215, 
+id: 32 fitness: 2.42253e+07 posicion: -4.4342, -1.09727,  mejor posicion: -0.811288, -1.16167,  velocidad: -1.29, 0.153258, 
+id: 96 fitness: 8.42029e+07 posicion: 0.00360111, -4.35338,  mejor posicion: 0.227987, -0.201164,  velocidad: -0.0770048, -1.15106, 
+
+***************************
+
+
+id: 51 fitness: 3.01077 posicion: -0.00690261, -1.00144,  mejor posicion: -0.00690261, -1.00144,  velocidad: 0.031755, 0.0418339, 
+id: 45 fitness: 3.01133 posicion: 0.00468012, -0.994962,  mejor posicion: 0.00468012, -0.994962,  velocidad: -0.0237113, -0.500144, 
+id: 87 fitness: 3.05061 posicion: 0.00344405, -0.988562,  mejor posicion: 0.00344405, -0.988562,  velocidad: 0.0212208, -0.00891115, 
+id: 48 fitness: 1.54037e+07 posicion: -0.0237657, -3.56426,  mejor posicion: -0.0443115, -1.39695,  velocidad: 0.0205458, -2.16731, 
+id: 46 fitness: 2.01953e+07 posicion: 0.0352889, -3.6836,  mejor posicion: 0.00583906, -1.39104,  velocidad: 0.0294498, -2.29255, 
+id: 43 fitness: 1.01253e+08 posicion: 6.08037, -0.735185,  mejor posicion: 0.207994, -1.13901,  velocidad: 5.87238, 0.403828, 
+
+***************************
+
+
+id: 58 fitness: 3.0636 posicion: -0.00493465, -1.01272,  mejor posicion: -0.00493465, -1.01272,  velocidad: -0.0715839, 0.00618332, 
+id: 2 fitness: 3.06524 posicion: -0.0165179, -1.00122,  mejor posicion: -0.0165179, -1.00122,  velocidad: 0.00783587, -0.36158, 
+id: 35 fitness: 3.06826 posicion: -0.00557031, -1.01318,  mejor posicion: -0.00557031, -1.01318,  velocidad: -0.00854029, 0.0171244, 
+id: 32 fitness: 1.50773e+06 posicion: 3.95887, -0.835293,  mejor posicion: 0.970731, -0.927755,  velocidad: 2.98814, 0.0924622, 
+id: 96 fitness: 1.66742e+06 posicion: -0.0169242, 2.91098,  mejor posicion: -0.00905306, 0.281926,  velocidad: -0.00787109, 2.62905, 
+id: 43 fitness: 1.44156e+07 posicion: 4.98768, -1.00473,  mejor posicion: 4.98768, -1.00473,  velocidad: -1.09269, -0.269549, 
+
+***************************
+
+
+id: 35 fitness: 3.03031 posicion: -0.0112143, -1.00066,  mejor posicion: -0.0112143, -1.00066,  velocidad: -0.00564399, 0.0125235, 
+id: 1 fitness: 3.05877 posicion: 0.00226241, -1.01086,  mejor posicion: 0.00226241, -1.01086,  velocidad: 0.00565567, 0.0190138, 
+id: 26 fitness: 3.09596 posicion: -0.0016198, -0.985414,  mejor posicion: -0.0016198, -0.985414,  velocidad: -0.0108474, -0.048054, 
+id: 11 fitness: 443068 posicion: -0.0429757, -2.40923,  mejor posicion: -0.0956206, 0.812899,  velocidad: 0.0526449, -3.22213, 
+id: 95 fitness: 1.81311e+06 posicion: 0.0120812, 2.93572,  mejor posicion: 0.0553091, 1.40093,  velocidad: 0.0100417, 0.254885, 
+id: 96 fitness: 1.04282e+08 posicion: -0.0198648, 4.69805,  mejor posicion: -0.00905306, 0.281926,  velocidad: -0.0029406, 1.78707, 
+
+***************************
+
+
+id: 87 fitness: 3.00828 posicion: 0.00590041, -0.999531,  mejor posicion: 0.00590041, -0.999531,  velocidad: -0.0152353, 0.0105795, 
+id: 22 fitness: 3.01995 posicion: 0.00339499, -1.00545,  mejor posicion: 0.00339499, -1.00545,  velocidad: -0.236546, -0.00721124, 
+id: 1 fitness: 3.03012 posicion: -0.00356697, -0.992884,  mejor posicion: -0.00356697, -0.992884,  velocidad: -0.00582938, 0.0179784, 
+id: 95 fitness: 223997 posicion: 0.0549636, 2.03194,  mejor posicion: 0.0549636, 2.03194,  velocidad: 0.0428824, -0.903777, 
+id: 96 fitness: 596218 posicion: -0.005714, 2.49749,  mejor posicion: -0.005714, 2.49749,  velocidad: 0.0141508, -2.20056, 
+id: 43 fitness: 1.74187e+06 posicion: -3.45681, -1.34023,  mejor posicion: 0.23539, -1.20605,  velocidad: -3.6922, -0.134186, 
+
+***************************
+
+
+id: 90 fitness: 3.01313 posicion: -0.000460848, -1.0056,  mejor posicion: -0.000460848, -1.0056,  velocidad: -0.0617871, 0.0089098, 
+id: 35 fitness: 3.02439 posicion: 0.00639673, -0.992438,  mejor posicion: 0.00639673, -0.992438,  velocidad: 0.02173, -0.00091601, 
+id: 19 fitness: 3.02473 posicion: 0.00539542, -0.992138,  mejor posicion: 0.00539542, -0.992138,  velocidad: -0.0877051, 0.00644759, 
+id: 95 fitness: 32290.5 posicion: 0.0402677, 1.06938,  mejor posicion: 0.0402677, 1.06938,  velocidad: -0.0146959, -0.962565, 
+id: 96 fitness: 57775.8 posicion: 0.0132849, -1.97475,  mejor posicion: 0.0132849, -1.97475,  velocidad: 0.0189989, -4.47224, 
+id: 43 fitness: 128173 posicion: -2.62194, -1.26566,  mejor posicion: -2.62194, -1.26566,  velocidad: 0.83487, 0.0745689, 
+
+***************************
+
+
+id: 59 fitness: 3.00288 posicion: -0.00335627, -0.999944,  mejor posicion: -0.00335627, -0.999944,  velocidad: -0.00189799, -0.0575501, 
+id: 16 fitness: 3.00879 posicion: -0.00425994, -1.00435,  mejor posicion: -0.00425994, -1.00435,  velocidad: -0.0287701, -0.00362873, 
+id: 87 fitness: 3.02888 posicion: 0.00227357, -1.00738,  mejor posicion: 0.00227357, -1.00738,  velocidad: 0.00749188, -0.01557, 
+id: 71 fitness: 19002.7 posicion: 0.0663472, -1.79298,  mejor posicion: 0.00899497, -0.805843,  velocidad: 0.0573522, -0.987134, 
+id: 32 fitness: 77540.9 posicion: -2.31511, -1.04419,  mejor posicion: -0.709545, -1.07689,  velocidad: -0.219303, 0.115742, 
+id: 96 fitness: 7.46332e+07 posicion: 0.014671, -4.29254,  mejor posicion: 0.0132849, -1.97475,  velocidad: 0.00138611, -2.31779, 
+
+***************************
+
+
+id: 7 fitness: 3.00202 posicion: -0.00203252, -1.00209,  mejor posicion: -0.00203252, -1.00209,  velocidad: 0.614128, 0.00137296, 
+id: 35 fitness: 3.00206 posicion: 0.00292323, -0.999782,  mejor posicion: 0.00292323, -0.999782,  velocidad: -0.016139, -0.00118795, 
+id: 27 fitness: 3.00454 posicion: -0.000338003, -1.0033,  mejor posicion: -0.000338003, -1.0033,  velocidad: -0.0163019, 0.0105801, 
+id: 5 fitness: 6993.36 posicion: 0.362053, -1.72876,  mejor posicion: 0.141484, -1.0669,  velocidad: 0.220569, -0.661863, 
+id: 96 fitness: 4.84761e+06 posicion: 0.0125888, -3.12713,  mejor posicion: 0.0125888, -3.12713,  velocidad: -0.00208217, 1.16541, 
+id: 95 fitness: 5.98417e+06 posicion: -0.0362751, -3.19793,  mejor posicion: -0.00480761, -1.69269,  velocidad: -0.0314675, -1.50525, 
+
+***************************
+
+
+id: 26 fitness: 3.00343 posicion: 0.00207752, -0.997088,  mejor posicion: 0.00207752, -0.997088,  velocidad: -0.00993581, -0.00756792, 
+id: 87 fitness: 3.00427 posicion: -0.00146222, -1.00332,  mejor posicion: -0.00146222, -1.00332,  velocidad: -0.00516468, 0.0075178, 
+id: 82 fitness: 3.00614 posicion: -0.0050401, -1.00222,  mejor posicion: -0.0050401, -1.00222,  velocidad: -0.116407, -0.00321779, 
+id: 46 fitness: 5599.83 posicion: 0.000980591, -1.61436,  mejor posicion: -0.0187502, -0.489878,  velocidad: 0.0197308, -1.12448, 
+id: 96 fitness: 105141 posicion: -0.000363339, -2.08889,  mejor posicion: -0.000363339, -2.08889,  velocidad: -0.0129522, 1.03825, 
+id: 95 fitness: 1.54899e+06 posicion: -0.0149149, -2.75418,  mejor posicion: -0.0149149, -2.75418,  velocidad: 0.0213602, 0.443754, 
+
+***************************
+
+
+id: 26 fitness: 3.00678 posicion: -0.00517363, -1.00261,  mejor posicion: 0.00207752, -0.997088,  velocidad: -0.00725115, -0.00552307, 
+id: 51 fitness: 3.00828 posicion: 0.00243942, -0.995374,  mejor posicion: 0.00243942, -0.995374,  velocidad: 0.000390928, -0.0156293, 
+id: 1 fitness: 3.0155 posicion: 0.00200005, -1.00528,  mejor posicion: 0.00200005, -1.00528,  velocidad: 0.00281778, 0.00660738, 
+id: 32 fitness: 18261.4 posicion: 1.31483, -0.960199,  mejor posicion: -0.583628, -0.958629,  velocidad: 0.415957, -0.0366811, 
+id: 48 fitness: 76637.7 posicion: -0.0110689, -2.02577,  mejor posicion: -0.0077808, -1.26957,  velocidad: -0.00328807, -0.756194, 
+id: 46 fitness: 102556 posicion: 0.0116174, -2.08494,  mejor posicion: -0.0187502, -0.489878,  velocidad: 0.0106368, -0.470577, 
+
+***************************
+
+
+id: 84 fitness: 3.00092 posicion: -0.00198406, -1.00021,  mejor posicion: -0.00198406, -1.00021,  velocidad: -0.00221225, 0.286514, 
+id: 1 fitness: 3.00149 posicion: 0.00252559, -0.999636,  mejor posicion: 0.00252559, -0.999636,  velocidad: 0.000525546, 0.00564439, 
+id: 26 fitness: 3.00167 posicion: -0.00263774, -1.00019,  mejor posicion: -0.00263774, -1.00019,  velocidad: 0.00253589, 0.00242366, 
+id: 32 fitness: 1321.29 posicion: -0.821281, -1.02745,  mejor posicion: -0.821281, -1.02745,  velocidad: -2.13611, -0.0672489, 
+id: 95 fitness: 8672.71 posicion: 0.0291764, 0.680308,  mejor posicion: 0.0115683, -0.522875,  velocidad: 0.0176081, 1.20318, 
+id: 48 fitness: 45900.9 posicion: -0.00909417, -1.93124,  mejor posicion: -0.00909417, -1.93124,  velocidad: 0.00197469, 0.0945281, 
+
+***************************
+
+
+id: 27 fitness: 3.00029 posicion: 0.000274622, -1.00078,  mejor posicion: 0.000274622, -1.00078,  velocidad: -0.0106355, -0.00237299, 
+id: 16 fitness: 3.00101 posicion: -0.000294748, -1.00159,  mejor posicion: -0.000294748, -1.00159,  velocidad: -0.00767755, -0.00228209, 
+id: 26 fitness: 3.00121 posicion: -0.000373897, -0.998435,  mejor posicion: -0.000373897, -0.998435,  velocidad: 0.00226384, 0.00175309, 
+id: 79 fitness: 1052.48 posicion: -0.767329, -1.00834,  mejor posicion: -0.096343, -1.0151,  velocidad: -0.670986, 0.00675362, 
+id: 48 fitness: 1873 posicion: -0.00651019, -1.4865,  mejor posicion: -0.00651019, -1.4865,  velocidad: 0.00258397, 0.444744, 
+id: 32 fitness: 13056.3 posicion: -1.89201, -1.0753,  mejor posicion: -0.821281, -1.02745,  velocidad: -1.07072, -0.0478489, 
+
+***************************
+
+
+id: 1 fitness: 3.00015 posicion: 0.000790394, -1.00009,  mejor posicion: 0.000790394, -1.00009,  velocidad: -0.000387247, -0.00437579, 
+id: 35 fitness: 3.00095 posicion: -0.000836683, -1.00157,  mejor posicion: -0.000836683, -1.00157,  velocidad: -0.00699799, -0.00232635, 
+id: 92 fitness: 3.00123 posicion: -0.00227271, -1.00097,  mejor posicion: -0.00227271, -1.00097,  velocidad: 0.0165414, 0.000260643, 
+id: 43 fitness: 1918.91 posicion: 0.700902, -1.02723,  mejor posicion: 0.143388, -0.986236,  velocidad: 0.557514, -0.0409941, 
+id: 95 fitness: 4680.25 posicion: 0.000962777, -1.59191,  mejor posicion: 0.0227691, -0.471924,  velocidad: -0.0218063, -1.11999, 
+id: 32 fitness: 8780.98 posicion: -1.74417, -1.01232,  mejor posicion: -1.74417, -1.01232,  velocidad: 0.147834, 0.0629761, 
+
+***************************
+
+
+id: 26 fitness: 3.00082 posicion: 0.0014507, -0.998774,  mejor posicion: 0.0014507, -0.998774,  velocidad: -6.73717e-05, -0.0012482, 
+id: 27 fitness: 3.00088 posicion: -0.00186587, -1.00095,  mejor posicion: -0.00186587, -1.00095,  velocidad: 0.00562127, 0.0015671, 
+id: 50 fitness: 3.00105 posicion: -0.000684291, -1.00165,  mejor posicion: -0.000684291, -1.00165,  velocidad: -0.0335931, 0.00981402, 
+id: 79 fitness: 275.507 posicion: -0.497912, -1.00021,  mejor posicion: -0.497912, -1.00021,  velocidad: 0.252836, 0.0051214, 
+id: 43 fitness: 1622.36 posicion: 0.680529, -1.01042,  mejor posicion: 0.680529, -1.01042,  velocidad: -0.0203731, 0.0168063, 
+id: 32 fitness: 2931.15 posicion: -1.21985, -0.964558,  mejor posicion: -1.21985, -0.964558,  velocidad: 0.524326, 0.0477626, 
+
+***************************
+
+
+id: 60 fitness: 3.00034 posicion: 0.0012116, -0.999616,  mejor posicion: 0.0012116, -0.999616,  velocidad: 0.00541747, -0.00242609, 
+id: 26 fitness: 3.00047 posicion: 0.00140154, -0.999685,  mejor posicion: 0.00140154, -0.999685,  velocidad: -4.91678e-05, -0.000910939, 
+id: 64 fitness: 3.00274 posicion: 0.000880081, -0.997351,  mejor posicion: 0.000729948, -1.00181,  velocidad: 0.000150133, 0.00445643, 
+id: 96 fitness: 205.42 posicion: -0.000145368, -1.29023,  mejor posicion: -0.00989509, -0.611482,  velocidad: -0.00124296, -0.0230322, 
+id: 95 fitness: 530.433 posicion: 0.0087823, -0.161874,  mejor posicion: 0.005856, -0.68475,  velocidad: 0.0029263, 0.522877, 
+id: 46 fitness: 1619.24 posicion: 0.0161643, -1.47313,  mejor posicion: 0.0205385, -1.04645,  velocidad: -0.00437421, -0.426677, 
+
+***************************
+
+
+id: 26 fitness: 3.00057 posicion: 0.00135117, -1.00028,  mejor posicion: 0.00140154, -0.999685,  velocidad: -5.03643e-05, -0.00059259, 
+id: 16 fitness: 3.00058 posicion: -0.000793424, -0.999197,  mejor posicion: -0.000793424, -0.999197,  velocidad: 0.00358304, 0.000976564, 
+id: 1 fitness: 3.00063 posicion: 0.00167555, -0.999693,  mejor posicion: 0.00167555, -0.999693,  velocidad: 0.000417794, 0.00466828, 
+id: 95 fitness: 646.47 posicion: 0.00367234, 0.0496136,  mejor posicion: 0.005856, -0.68475,  velocidad: -0.00510997, 0.211487, 
+id: 32 fitness: 3445.67 posicion: 0.844734, -0.98074,  mejor posicion: -0.0312867, -0.961657,  velocidad: 0.876021, -0.0190832, 
+id: 46 fitness: 4406.56 posicion: 0.0164156, -1.58592,  mejor posicion: 0.0205385, -1.04645,  velocidad: 0.000251345, -0.112792, 
+
+***************************
+
+
+id: 26 fitness: 3.00059 posicion: 0.00134635, -1.0003,  mejor posicion: 0.00140154, -0.999685,  velocidad: -4.81876e-06, -2.06262e-05, 
+id: 66 fitness: 3.00071 posicion: 0.00113429, -1.0007,  mejor posicion: 0.00113429, -1.0007,  velocidad: 0.000572469, -0.00565973, 
+id: 87 fitness: 3.00082 posicion: 0.00116328, -0.99863,  mejor posicion: 0.00116328, -0.99863,  velocidad: -0.000933723, 0.00251775, 
+id: 43 fitness: 28.9374 posicion: -0.23254, -0.983356,  mejor posicion: 0.0660097, -0.974964,  velocidad: -0.298549, -0.00839274, 
+id: 96 fitness: 451.432 posicion: -0.00397799, -0.274622,  mejor posicion: -0.00427332, -0.688275,  velocidad: 0.000295337, 0.413653, 
+id: 32 fitness: 1274.86 posicion: 0.650089, -0.992376,  mejor posicion: 0.650089, -0.992376,  velocidad: -0.194645, -0.0116362, 
+
+***************************
+
+
+id: 22 fitness: 3.00026 posicion: 3.24529e-05, -0.999271,  mejor posicion: 3.24529e-05, -0.999271,  velocidad: -0.0102897, 0.00343907, 
+id: 35 fitness: 3.00031 posicion: 0.0011278, -0.999711,  mejor posicion: 0.0011278, -0.999711,  velocidad: -0.00599717, -0.000475768, 
+id: 93 fitness: 3.00037 posicion: 0.00118478, -0.999392,  mejor posicion: 0.00118478, -0.999392,  velocidad: 0.000125024, 0.0367709, 
+id: 43 fitness: 44.9549 posicion: -0.274385, -0.982572,  mejor posicion: 0.0660097, -0.974964,  velocidad: -0.0418452, 0.000784453, 
+id: 32 fitness: 73.883 posicion: 0.292659, -1.00758,  mejor posicion: 0.292659, -1.00758,  velocidad: -0.35743, -0.0152078, 
+id: 95 fitness: 32145.7 posicion: -0.00359446, -1.87018,  mejor posicion: -0.00157298, -1.12495,  velocidad: -0.00202148, -0.745233, 
+
+***************************
+
+
+id: 100 fitness: 3.00003 posicion: -7.16449e-05, -1.00032,  mejor posicion: -7.16449e-05, -1.00032,  velocidad: -0.00113383, -0.0182615, 
+id: 51 fitness: 3.00006 posicion: 0.00047079, -0.999817,  mejor posicion: 0.00047079, -0.999817,  velocidad: -0.00105073, 0.000807196, 
+id: 1 fitness: 3.00011 posicion: 1.14019e-05, -1.00055,  mejor posicion: 1.14019e-05, -1.00055,  velocidad: -0.00174328, -0.00427382, 
+id: 46 fitness: 40.6658 posicion: -0.0081776, -0.762114,  mejor posicion: -0.0081776, -0.762114,  velocidad: -0.00716881, -0.00220764, 
+id: 96 fitness: 904.31 posicion: 0.00436818, -1.41453,  mejor posicion: 0.000973569, -0.902107,  velocidad: 0.00339461, -0.512426, 
+id: 95 fitness: 37982.6 posicion: -0.00154598, -1.89874,  mejor posicion: -0.00157298, -1.12495,  velocidad: 0.00204849, -0.0285553, 
+
+***************************
+
+
+id: 26 fitness: 2.99999 posicion: 0.00014168, -0.999847,  mejor posicion: 0.00014168, -0.999847,  velocidad: -0.00107741, -0.000497614, 
+id: 66 fitness: 3.00003 posicion: 0.000192809, -0.999788,  mejor posicion: 0.000192809, -0.999788,  velocidad: -0.00124571, 0.00342583, 
+id: 27 fitness: 3.00004 posicion: 0.000537395, -1.00004,  mejor posicion: 0.000537395, -1.00004,  velocidad: 0.00666111, 0.000899563, 
+id: 95 fitness: 95.2449 posicion: -1.64763e-06, -0.665631,  mejor posicion: -1.64763e-06, -0.665631,  velocidad: 0.00154433, 1.23311, 
+id: 32 fitness: 296.857 posicion: -0.509008, -1.00618,  mejor posicion: -0.187639, -1.0125,  velocidad: -0.321369, 0.00631981, 
+id: 96 fitness: 7416.25 posicion: 0.00196769, -1.65094,  mejor posicion: 0.000973569, -0.902107,  velocidad: -0.00240049, -0.236405, 
+
+***************************
+
+
+id: 64 fitness: 3 posicion: -0.000180245, -0.999999,  mejor posicion: -0.000180245, -0.999999,  velocidad: -0.000141649, 0.000493366, 
+id: 1 fitness: 3.00008 posicion: 0.000271367, -1.00033,  mejor posicion: 0.000271367, -1.00033,  velocidad: 0.00155403, 0.00313639, 
+id: 51 fitness: 3.0001 posicion: -5.13043e-05, -0.999555,  mejor posicion: -5.13043e-05, -0.999555,  velocidad: 0.000713154, -7.52519e-05, 
+id: 74 fitness: 8.90321 posicion: -0.000155441, -0.889073,  mejor posicion: -0.0140074, -0.994898,  velocidad: 0.013852, 0.105826, 
+id: 32 fitness: 9.93602 posicion: -0.143629, -1.00054,  mejor posicion: -0.143629, -1.00054,  velocidad: 0.365379, 0.00564013, 
+id: 95 fitness: 778.868 posicion: 0.00121465, 0.131207,  mejor posicion: -1.64763e-06, -0.665631,  velocidad: 0.0012163, 0.796839, 
+
+***************************
+
+
+id: 51 fitness: 3.00002 posicion: 0.000401082, -0.999849,  mejor posicion: 0.000401082, -0.999849,  velocidad: 0.000452386, -0.000294335, 
+id: 87 fitness: 3.00003 posicion: -0.000181007, -0.999923,  mejor posicion: -0.000181007, -0.999923,  velocidad: -1.92364e-05, 0.0020829, 
+id: 90 fitness: 3.00008 posicion: -0.000534289, -0.999952,  mejor posicion: -0.000534289, -0.999952,  velocidad: 0.00768244, 4.17815e-05, 
+id: 46 fitness: 25.0182 posicion: 0.00157354, -1.15472,  mejor posicion: -0.00394514, -0.993906,  velocidad: 0.00551868, -0.160812, 
+id: 96 fitness: 292.475 posicion: -0.00334789, -0.450622,  mejor posicion: -0.0018935, -0.950683,  velocidad: -0.00145439, 0.500061, 
+id: 95 fitness: 870.923 posicion: 0.000685253, 0.166103,  mejor posicion: -1.64763e-06, -0.665631,  velocidad: -0.000529397, 0.034896, 
+
+***************************
+
+
+id: 64 fitness: 3 posicion: 0.000163954, -0.99974,  mejor posicion: 0.000163954, -0.99974,  velocidad: 0.000447575, -0.000101024, 
+id: 19 fitness: 3 posicion: 0.000193407, -0.999919,  mejor posicion: 0.000193407, -0.999919,  velocidad: -0.00391005, -0.00019153, 
+id: 91 fitness: 3.00002 posicion: 7.14534e-05, -1.00008,  mejor posicion: 7.14534e-05, -1.00008,  velocidad: -0.00401862, -0.000140008, 
+id: 46 fitness: 25.4636 posicion: 0.00456972, -1.15558,  mejor posicion: -0.00394514, -0.993906,  velocidad: 0.00299618, -0.000866792, 
+id: 32 fitness: 73.1182 posicion: 0.297092, -0.996419,  mejor posicion: 0.126689, -0.995914,  velocidad: 0.170402, -0.000505432, 
+id: 95 fitness: 475.478 posicion: -0.000545152, -0.244373,  mejor posicion: -0.000545152, -0.244373,  velocidad: -0.0012304, -0.410477, 
+
+***************************
+
+
+id: 39 fitness: 2.99999 posicion: 0.000164075, -0.999906,  mejor posicion: 0.000164075, -0.999906,  velocidad: 0.000511754, -0.000209089, 
+id: 26 fitness: 3.00004 posicion: 0.000301377, -0.99998,  mejor posicion: 0.000301377, -0.99998,  velocidad: 0.000676271, 0.000135518, 
+id: 4 fitness: 3.00004 posicion: 0.00042011, -0.999944,  mejor posicion: 0.00042011, -0.999944,  velocidad: 0.00235186, -0.00062489, 
+id: 43 fitness: 9.60221 posicion: 0.1338, -1.00086,  mejor posicion: 0.114729, -0.993625,  velocidad: 0.269525, 0.00579533, 
+id: 95 fitness: 61.6873 posicion: -0.000852146, -0.719242,  mejor posicion: -0.000852146, -0.719242,  velocidad: -0.000306994, -0.474869, 
+id: 96 fitness: 192.51 posicion: 0.000534944, -1.28547,  mejor posicion: -0.00251919, -0.905798,  velocidad: 0.00305413, -0.379671, 
+
+***************************
+
+
+id: 51 fitness: 2.99999 posicion: 0.000112191, -0.999973,  mejor posicion: 0.000112191, -0.999973,  velocidad: -0.000385329, 8.4101e-05, 
+id: 27 fitness: 3.00002 posicion: 0.000244572, -0.99999,  mejor posicion: 0.000244572, -0.99999,  velocidad: -0.00185786, -5.62038e-05, 
+id: 84 fitness: 3.00003 posicion: 0.00014376, -0.999754,  mejor posicion: 0.00014376, -0.999754,  velocidad: -2.14101e-05, 0.00718708, 
+id: 43 fitness: 13.9783 posicion: 0.167911, -0.988284,  mejor posicion: 0.114729, -0.993625,  velocidad: 0.0341108, 0.0125781, 
+id: 96 fitness: 70.3115 posicion: 0.00239751, -1.21671,  mejor posicion: 0.00239751, -1.21671,  velocidad: 0.00186256, 0.0687546, 
+id: 95 fitness: 419.413 posicion: -0.000276859, -1.34625,  mejor posicion: -0.000852146, -0.719242,  velocidad: 0.000575287, -0.627004, 
+
+***************************
+
+
+id: 19 fitness: 3 posicion: 2.46766e-05, -0.999914,  mejor posicion: 2.46766e-05, -0.999914,  velocidad: 0.00283644, 3.70432e-05, 
+id: 91 fitness: 3 posicion: -6.72287e-05, -1.00011,  mejor posicion: -6.72287e-05, -1.00011,  velocidad: 0.00276589, -0.000218978, 
+id: 17 fitness: 3.00001 posicion: -8.81396e-05, -1.00013,  mejor posicion: -8.81396e-05, -1.00013,  velocidad: -0.000407028, -5.36178e-05, 
+id: 46 fitness: 13.4616 posicion: -0.0115929, -0.857927,  mejor posicion: -0.00876625, -0.935136,  velocidad: -0.00282666, 0.0772093, 
+id: 96 fitness: 16.8757 posicion: 0.00227021, -1.13248,  mejor posicion: 0.00227021, -1.13248,  velocidad: -0.000127298, 0.0842347, 
+id: 95 fitness: 662.453 posicion: -2.01263e-05, -1.38565,  mejor posicion: -0.000852146, -0.719242,  velocidad: 0.000256733, -0.0394065, 
+
+***************************
+
+
+id: 26 fitness: 2.99997 posicion: -9.50531e-05, -0.999962,  mejor posicion: -9.50531e-05, -0.999962,  velocidad: -0.000564409, -4.00797e-05, 
+id: 39 fitness: 2.99998 posicion: 0.000119912, -1.00005,  mejor posicion: 0.000119912, -1.00005,  velocidad: -0.000243921, 3.25639e-05, 
+id: 51 fitness: 3.00001 posicion: -0.000235308, -0.999869,  mejor posicion: -0.000235308, -0.999869,  velocidad: -6.62865e-05, 4.28359e-05, 
+id: 96 fitness: 3.61702 posicion: 0.000545186, -1.03608,  mejor posicion: 0.000545186, -1.03608,  velocidad: -0.00172502, 0.0964021, 
+id: 43 fitness: 3.72316 posicion: 0.0553322, -0.989645,  mejor posicion: 0.0553322, -0.989645,  velocidad: -0.0642434, -0.00212972, 
+id: 95 fitness: 6.06229 posicion: 2.08697e-05, -1.07436,  mejor posicion: 2.08697e-05, -1.07436,  velocidad: 4.0996e-05, 0.311296, 
+
+***************************
+
+
+id: 17 fitness: 3 posicion: -9.49068e-05, -0.999943,  mejor posicion: -9.49068e-05, -0.999943,  velocidad: 0.00028325, 6.83796e-05, 
+id: 16 fitness: 3 posicion: -2.5055e-05, -0.999698,  mejor posicion: -2.5055e-05, -0.999698,  velocidad: -6.59075e-05, 0.000304961, 
+id: 67 fitness: 3 posicion: -0.00014764, -0.999893,  mejor posicion: -0.00014764, -0.999893,  velocidad: -0.0014115, -0.00083737, 
+id: 96 fitness: 4.14601 posicion: -0.00127982, -0.948565,  mejor posicion: 0.000545186, -1.03608,  velocidad: -0.001825, 0.0875123, 
+id: 46 fitness: 7.43032 posicion: 0.00338892, -1.08601,  mejor posicion: -0.00498198, -0.975439,  velocidad: 0.0083709, -0.110569, 
+id: 95 fitness: 35.9647 posicion: -7.26909e-05, -0.775363,  mejor posicion: 2.08697e-05, -1.07436,  velocidad: -9.35606e-05, 0.298993, 
+
+***************************
+
+
+id: 26 fitness: 2.99998 posicion: -3.11304e-05, -0.999962,  mejor posicion: -3.11304e-05, -0.999962,  velocidad: 0.000475828, 2.97476e-05, 
+id: 27 fitness: 2.99998 posicion: 0.000216258, -0.999919,  mejor posicion: 0.000216258, -0.999919,  velocidad: 0.000939441, 2.44683e-05, 
+id: 51 fitness: 2.99999 posicion: -0.000183396, -0.999959,  mejor posicion: -0.000183396, -0.999959,  velocidad: 2.02115e-05, -3.30173e-05, 
+id: 43 fitness: 3.46045 posicion: -0.0413106, -0.997405,  mejor posicion: -0.00123186, -0.992181,  velocidad: -0.0400788, -0.00522468, 
+id: 46 fitness: 5.34313 posicion: 0.00525503, -1.06524,  mejor posicion: 0.00525503, -1.06524,  velocidad: 0.0018661, 0.0207637, 
+id: 95 fitness: 34.9541 posicion: -4.74054e-05, -0.778066,  mejor posicion: -4.74054e-05, -0.778066,  velocidad: 2.52854e-05, -0.00270223, 
+
+***************************
+
+
+id: 17 fitness: 2.99998 posicion: -9.14337e-06, -0.999925,  mejor posicion: -9.14337e-06, -0.999925,  velocidad: -0.000120953, -3.24587e-05, 
+id: 51 fitness: 2.99998 posicion: -0.000115994, -0.999985,  mejor posicion: -0.000115994, -0.999985,  velocidad: 6.74027e-05, -2.54548e-05, 
+id: 64 fitness: 2.99998 posicion: -5.58373e-05, -0.999923,  mejor posicion: -5.58373e-05, -0.999923,  velocidad: 0.000213769, 2.49632e-05, 
+id: 79 fitness: 3.50958 posicion: 0.0437519, -0.999927,  mejor posicion: -9.73418e-06, -0.999904,  velocidad: 0.0127196, -9.37708e-06, 
+id: 96 fitness: 3.58699 posicion: -0.000787673, -1.03555,  mejor posicion: -0.0012236, -0.997785,  velocidad: 0.000435926, -0.0377664, 
+id: 95 fitness: 28.8236 posicion: -2.3168e-05, -0.795768,  mejor posicion: -2.3168e-05, -0.795768,  velocidad: 2.42374e-05, -0.0177022, 
+
+***************************
+
+
+id: 17 fitness: 2.99995 posicion: -9.74145e-05, -0.999949,  mejor posicion: -9.74145e-05, -0.999949,  velocidad: -8.82712e-05, -2.36884e-05, 
+id: 85 fitness: 2.99998 posicion: -6.19261e-05, -0.999983,  mejor posicion: -6.19261e-05, -0.999983,  velocidad: -2.14934e-05, 0.00319823, 
+id: 16 fitness: 2.99999 posicion: -6.07487e-05, -0.999975,  mejor posicion: -6.07487e-05, -0.999975,  velocidad: 2.4439e-05, -0.000324272, 
+id: 98 fitness: 3.29497 posicion: -0.0340552, -1.00004,  mejor posicion: 0.0089962, -1.00056,  velocidad: -0.0110638, 0.000115635, 
+id: 46 fitness: 3.56093 posicion: -0.00154804, -0.963989,  mejor posicion: 0.00313817, -1.00736,  velocidad: -0.00468621, 0.0433696, 
+id: 95 fitness: 16.0684 posicion: -7.86167e-05, -0.844536,  mejor posicion: -7.86167e-05, -0.844536,  velocidad: -5.54487e-05, -0.048768, 
+
+***************************
+
+
+id: 33 fitness: 2.99999 posicion: -0.000280643, -1.0001,  mejor posicion: -0.000280643, -1.0001,  velocidad: -0.00190783, -0.000970339, 
+id: 55 fitness: 3 posicion: -8.51876e-05, -1.00011,  mejor posicion: -8.51876e-05, -1.00011,  velocidad: -5.34068e-06, 0.000294189, 
+id: 64 fitness: 3 posicion: 7.0927e-05, -0.999935,  mejor posicion: 7.0927e-05, -0.999935,  velocidad: -1.31213e-05, -2.75758e-05, 
+id: 61 fitness: 3.16848 posicion: -0.0257834, -0.99992,  mejor posicion: -0.0257834, -0.99992,  velocidad: -0.0563742, 1.7484e-05, 
+id: 95 fitness: 3.87534 posicion: -0.000132445, -0.954745,  mejor posicion: -0.000132445, -0.954745,  velocidad: -5.38282e-05, -0.110209, 
+id: 79 fitness: 4.24003 posicion: -0.0679373, -0.999922,  mejor posicion: -0.0279753, -0.999918,  velocidad: -0.039962, -3.65753e-06, 
+
+***************************
+
+
+id: 4 fitness: 2.99997 posicion: 6.40623e-05, -1.00013,  mejor posicion: 6.40623e-05, -1.00013,  velocidad: -0.00099953, 0.000108934, 
+id: 20 fitness: 2.99999 posicion: -6.33784e-05, -1.00006,  mejor posicion: -6.33784e-05, -1.00006,  velocidad: 0.000547955, 0.000159883, 
+id: 91 fitness: 3 posicion: 0.000149143, -1.00012,  mejor posicion: 0.000149143, -1.00012,  velocidad: 0.000340459, -0.00015144, 
+id: 61 fitness: 3.40802 posicion: -0.0399135, -1.00001,  mejor posicion: -0.0257834, -0.99992,  velocidad: -0.0141301, -8.68231e-05, 
+id: 98 fitness: 3.47674 posicion: 0.0423515, -0.999989,  mejor posicion: 0.0123968, -0.999974,  velocidad: 0.0299547, -1.47462e-05, 
+id: 95 fitness: 6.47998 posicion: -0.000238488, -1.07848,  mejor posicion: -0.000132445, -0.954745,  velocidad: -0.000106043, -0.123731, 
+
+***************************
+
+
+id: 17 fitness: 2.99997 posicion: 3.19861e-05, -1.00005,  mejor posicion: 3.19861e-05, -1.00005,  velocidad: 0.000243677, -1.9916e-05, 
+id: 85 fitness: 2.99999 posicion: 0.000165303, -1.00012,  mejor posicion: 0.000165303, -1.00012,  velocidad: 0.000443005, -0.00348098, 
+id: 55 fitness: 2.99999 posicion: -0.000133228, -1.00002,  mejor posicion: -0.000133228, -1.00002,  velocidad: 0.000103169, -0.000127983, 
+id: 61 fitness: 3.12234 posicion: -0.0220371, -1.00004,  mejor posicion: -0.0220371, -1.00004,  velocidad: 0.0178764, -3.33701e-05, 
+id: 79 fitness: 3.19677 posicion: 0.0274829, -1.00019,  mejor posicion: -0.0130995, -1.00004,  velocidad: 0.0405824, -0.000148916, 
+id: 46 fitness: 3.28555 posicion: 0.00229066, -1.02443,  mejor posicion: 0.00104733, -0.993534,  velocidad: -0.00053142, -0.00368654, 

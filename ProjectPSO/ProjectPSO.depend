@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1677610509 source:c:\users\pc\documents\github\object-oriented-programming-cpp\projectpso\main.cpp
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	<random>
+	<thread>
+	<algorithm>
+	"Particle.h"
+
+1677610134 source:c:\users\pc\documents\github\object-oriented-programming-cpp\projectpso\particle.cpp
+	"Particle.h"
+
+1677610151 c:\users\pc\documents\github\object-oriented-programming-cpp\projectpso\particle.h
+	<iostream>
+	<vector>
+	<cmath>
+	<sstream>
+	<string>
+
