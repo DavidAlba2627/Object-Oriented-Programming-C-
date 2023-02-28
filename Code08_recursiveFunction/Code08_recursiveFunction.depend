@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677601406 source:c:\users\pc\documents\github\object-oriented-programming-cpp\code08_recursivefunction\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+
