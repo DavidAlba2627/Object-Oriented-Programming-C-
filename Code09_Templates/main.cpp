@@ -2,7 +2,7 @@
 
 using namespace std;
 
-template <class Any> // Class es lo mismo que typenname
+template <class Any> // Equivalent to typenname
 void swapping(Any &a, Any &b)
 {
     Any temp = a;
