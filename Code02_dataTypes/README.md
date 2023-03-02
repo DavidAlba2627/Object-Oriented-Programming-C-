@@ -7,4 +7,5 @@ This program show the size in bytes and the maximum/minimum value of different t
 | Int  | 4 bytes  |
 | Long  | 4 bytes  |
 | Float  | 4 bytes  |
+| Double | 8 bytes  |
 
