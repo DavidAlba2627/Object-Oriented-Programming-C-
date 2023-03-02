@@ -1,5 +1,5 @@
 # Description
-This program show the size in bytes and the maximum/minimum value of different types of variables  (short, int, long, float and double)
+This program shows the size in bytes and the maximum/minimum value of different types of variables  (short, int, long, float and double)
 
 The results for the size of variables are shown below:
 | Variable  | Size |
