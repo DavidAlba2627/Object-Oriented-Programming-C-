@@ -33,7 +33,7 @@ int main()
         cout << people.at(i).getName() << " new age: " << people.at(i).getAge() << endl;
     }
 
-    Student Richard = Student(2,427051,9.3);
+    Student Richard = Student(2,12345,9.3);
     Richard.setAge(19);
     Richard.setName("Richard");
     Richard.setAddress("New York");
