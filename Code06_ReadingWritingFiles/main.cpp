@@ -11,7 +11,7 @@ vector <string> split(const string &, char);
 
 int main()
 {
-    ofstream fout; // fout("miPrimerArchivo.txt
+    ofstream fout;
     fout.open("myFirstFile.txt");
 
     fout << "Writing the first line" << endl ;
