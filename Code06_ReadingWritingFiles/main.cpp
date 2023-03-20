@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstring>
-#include <fstream> // file input and output, flujos hacia archivos
+#include <fstream>
 #include <sstream>
 #include <vector>
 
@@ -19,7 +19,7 @@ int main()
     fout << "Writing a number: " << 1234.567 << endl;
     fout.close();
 
-    fout.open("myFirstFile.txt",fstream::app); // despues de la coma es el modificador del archivo, tambien puede ser  ios_base
+    fout.open("myFirstFile.txt",fstream::app);
     fout << "Fourth line" << endl;
     fout.close();
 
@@ -63,15 +63,7 @@ int main()
     }
 
 
-
-
     fin.close();
-
-
-
-
-
-
 
     return 0;
 }
@@ -90,7 +82,7 @@ void split(const string  &s, char delim, Out result)
 vector<string> split(const string &s, char delim)
 {
     vector<string> elems;
-    split(s, delim, back_inserter(elems)); // back convierte algo a un apuntador
+    split(s, delim, back_inserter(elems));
     return elems;
 }
 
